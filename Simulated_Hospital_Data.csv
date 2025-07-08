@@ -1,0 +1,501 @@
+Patient ID,Patient Name,Gender,Age,Department,Diagnosis,Doctor,Admission Date,Discharge Date,Length of Stay (Days),Treatment Cost (INR),Status,Feedback Score (1-10)
+PT0001,Timothy Davis,Female,43,General Medicine,Fever,Rachel Dominguez,2023-10-24,2024-09-08,320,30368.28,Recovered,8
+PT0002,Alexa Lane,Female,80,Pediatrics,Flu,Lisa Martin,2024-11-05,2025-03-25,140,10069.01,Recovered,2
+PT0003,Angela Mccann,Male,69,General Medicine,Diabetes,Jack Barry,2023-11-22,2024-03-07,106,15441.54,Recovered,6
+PT0004,Christie Kidd,Male,61,Oncology,Lung Cancer,Victoria Price,2025-02-07,2025-02-23,16,14509.26,Recovered,8
+PT0005,Lance Ramos,Male,27,Dermatology,Psoriasis,Tim Jones,2024-09-10,2025-04-10,212,19813.81,Recovered,9
+PT0006,Kim Ross,Male,31,Neurology,Stroke,Mrs. Ashley Johnson,2023-11-29,2025-01-01,399,11042.42,Recovered,5
+PT0007,Deborah Hale,Female,74,Oncology,Leukemia,Sarah Thompson,2024-02-27,2024-04-03,36,29737.21,Recovered,4
+PT0008,Erin Smith,Female,74,Neurology,Epilepsy,Joshua Cole,2024-04-02,2024-11-18,230,30505.04,Recovered,2
+PT0009,Christopher Chen,Male,55,Oncology,Breast Cancer,Alexis Williams,2025-01-30,2025-05-03,93,12798.59,Recovered,9
+PT0010,Luis Holland,Female,81,Cardiology,Heart Attack,Luis Swanson,2024-06-18,2025-03-19,274,32075.31,Recovered,5
+PT0011,Nicholas Stephenson,Female,46,Dermatology,Eczema,Andrew Mitchell,2024-12-27,2025-03-26,89,6796.33,Under Treatment,2
+PT0012,Natalie Booker,Female,6,General Medicine,Fever,Garrett Gray,2025-04-17,2025-05-02,15,18728.83,Recovered,7
+PT0013,William Buck,Male,32,Oncology,Lung Cancer,James Washington,2024-01-02,2025-05-01,485,17753.47,Recovered,3
+PT0014,Crystal Murphy,Male,59,Orthopedics,Dislocation,Emily Chang,2024-10-01,2025-05-20,231,24244.88,Under Treatment,3
+PT0015,Jack Green,Female,36,Oncology,Leukemia,Deanna Walls,2024-10-07,2025-01-15,100,21922.82,Recovered,3
+PT0016,James Hernandez,Male,61,General Medicine,Thyroid,Alyssa Lewis,2023-12-23,2024-03-30,98,13311.36,Recovered,1
+PT0017,Melissa Wilson,Male,2,General Medicine,Diabetes,William Patrick,2024-10-03,2025-01-23,112,19138.55,Recovered,7
+PT0018,Ashley Harris,Female,81,Cardiology,Arrhythmia,Robert Miller,2024-10-27,2024-10-31,4,24449.77,Recovered,6
+PT0019,Lori Perry,Female,65,Neurology,Epilepsy,Diane Parker,2025-04-07,2025-07-01,85,41077.06,Recovered,9
+PT0020,Victoria Benitez,Female,36,Pediatrics,Chickenpox,Jeremy Walker,2023-08-14,2024-09-19,402,11223.33,Recovered,5
+PT0021,Ashley Lopez,Female,72,Orthopedics,Arthritis,Ms. Alicia Jackson,2024-08-21,2025-03-27,218,6219.48,Under Treatment,8
+PT0022,Ms. Debra Hogan,Female,27,Neurology,Stroke,John Montgomery,2025-05-27,2025-06-16,20,8071.85,Recovered,4
+PT0023,Bradley Roberts,Male,62,Cardiology,Hypertension,Sara Hensley,2024-09-15,2024-10-25,40,48452.87,Recovered,2
+PT0024,Roberto Delacruz,Female,8,Dermatology,Eczema,Ms. Christina Brown DDS,2024-02-20,2024-06-23,124,26880.69,Recovered,10
+PT0025,Manuel Lane,Female,10,Oncology,Leukemia,Mark Barr,2023-10-03,2024-04-08,188,22914.95,Recovered,7
+PT0026,Stephanie Taylor,Male,64,Neurology,Stroke,David Werner,2025-02-25,2025-03-12,15,18429.2,Recovered,4
+PT0027,Matthew Jackson,Male,30,Pediatrics,Chickenpox,Vanessa Reeves,2023-09-22,2024-07-01,283,13605.56,Recovered,6
+PT0028,Laura Hunter,Female,70,Orthopedics,Fracture,Donald Townsend,2024-12-08,2025-04-11,124,6332.74,Recovered,7
+PT0029,Justin Morrison,Male,26,Cardiology,Arrhythmia,Troy Chen,2025-05-05,2025-05-06,1,16771.65,Recovered,7
+PT0030,Desiree Castro,Male,50,Cardiology,Hypertension,Chad Klein,2024-06-27,2025-01-17,204,18410.87,Recovered,1
+PT0031,Michael Conley,Male,17,Pediatrics,Chickenpox,Andrew Johnson,2025-04-11,2025-04-22,11,25509.77,Under Treatment,5
+PT0032,Brian Preston,Male,10,General Medicine,Diabetes,Rachel Cunningham,2024-08-23,2025-01-02,132,21299.36,Under Treatment,6
+PT0033,Christina Roberson,Female,48,Orthopedics,Fracture,Beth Carter,2024-12-27,2025-02-25,60,27109.4,Recovered,8
+PT0034,Michael Lee,Male,53,Dermatology,Eczema,Andrew Nichols,2025-03-29,2025-05-08,40,20015.13,Recovered,7
+PT0035,Stuart Whitehead,Male,23,Dermatology,Acne,Jennifer Mcmahon,2024-03-14,2024-10-31,231,18258.63,Recovered,5
+PT0036,Tamara Gonzalez,Male,8,Pediatrics,Chickenpox,David Ray,2023-07-30,2024-03-24,238,42369.88,Under Treatment,7
+PT0037,Joanne Murillo,Male,57,General Medicine,Fever,Timothy Anthony,2024-07-05,2025-06-12,342,29447.45,Recovered,1
+PT0038,Michael Hughes,Male,51,Cardiology,Hypertension,Samuel Mendoza,2024-07-22,2024-08-22,31,42874.49,Recovered,3
+PT0039,Matthew Hill,Male,62,Pediatrics,Chickenpox,Robert Wells,2024-01-24,2024-05-11,108,20865.07,Recovered,10
+PT0040,Mr. Charles Smith,Female,47,Oncology,Leukemia,Robin Moore,2024-03-13,2024-09-30,201,40105.17,Under Treatment,2
+PT0041,James Hill,Male,44,Oncology,Leukemia,Paul Bond,2023-10-02,2024-12-14,439,44834.46,Recovered,2
+PT0042,Christopher Hart,Female,11,Neurology,Migraine,Jamie Robertson,2024-08-21,2025-01-26,158,41969.13,Recovered,1
+PT0043,Robin Hernandez,Male,29,Pediatrics,Chickenpox,James Garrett,2024-05-31,2025-01-09,223,31413.71,Recovered,9
+PT0044,Erin Cowan,Female,34,Oncology,Leukemia,George Shaw,2024-04-25,2024-05-02,7,22984.45,Recovered,6
+PT0045,Eric Booker,Male,78,Cardiology,Hypertension,Cody Callahan,2023-08-12,2024-10-06,421,23526.28,Recovered,10
+PT0046,Lisa Hawkins,Male,63,Pediatrics,Chickenpox,Madison Joseph,2024-06-18,2024-07-29,41,39244.33,Recovered,1
+PT0047,Brian Sandoval,Female,51,Dermatology,Acne,Maurice Mahoney,2023-12-29,2025-06-30,549,42104.68,Recovered,9
+PT0048,Heather Scott,Female,34,Dermatology,Acne,Sara Miller,2025-05-02,2025-05-15,13,15846.88,Under Treatment,4
+PT0049,Kristopher Day,Female,49,Oncology,Leukemia,Cindy Davis,2024-05-01,2024-12-08,221,31329.59,Recovered,8
+PT0050,Mr. Calvin Ray,Female,55,Orthopedics,Fracture,Zoe Kim,2024-05-30,2024-10-26,149,18861.61,Recovered,8
+PT0051,Brad Foley,Female,51,Oncology,Breast Cancer,Elizabeth Russo,2023-07-18,2025-05-21,673,37240.4,Recovered,2
+PT0052,Joseph Edwards,Male,74,Cardiology,Hypertension,Charles Jones,2024-06-18,2025-03-20,275,23826.18,Recovered,9
+PT0053,Natasha Barnett,Male,46,Pediatrics,Bronchitis,Jared Mason,2024-08-06,2024-12-19,135,44529.32,Recovered,8
+PT0054,Rachel Green,Male,19,Cardiology,Hypertension,Mr. John Caldwell,2024-09-27,2025-02-25,151,26879.51,Recovered,8
+PT0055,Daniel Gomez,Male,70,Orthopedics,Arthritis,Sonia Saunders,2024-09-23,2024-12-05,73,11211.81,Under Treatment,6
+PT0056,Andrew Villanueva,Male,71,General Medicine,Diabetes,Andrew Martinez,2024-04-10,2025-02-26,322,31156.54,Recovered,4
+PT0057,Ronald Leon,Male,57,Neurology,Epilepsy,Paula Williams,2025-01-26,2025-05-12,106,33306.61,Recovered,10
+PT0058,James Smith,Male,28,Orthopedics,Fracture,Sean Bauer,2024-11-08,2025-02-23,107,22415.24,Recovered,7
+PT0059,Stephen Turner,Male,35,Oncology,Breast Cancer,Derek Rose,2023-10-18,2024-11-12,391,20210.05,Under Treatment,6
+PT0060,Kelly Owens,Male,39,General Medicine,Thyroid,Cheyenne Powell,2024-04-10,2025-01-08,273,25819.87,Recovered,7
+PT0061,Matthew Bowman,Male,6,Dermatology,Psoriasis,Jared Higgins,2024-10-26,2025-04-03,159,31723.6,Recovered,3
+PT0062,Sandra Kennedy,Female,67,Pediatrics,Flu,Rebecca Sullivan,2025-05-24,2025-05-24,0,17928.19,Recovered,1
+PT0063,Michael Brandt,Male,9,Dermatology,Psoriasis,Wendy Farmer,2024-03-24,2025-04-06,378,9354.32,Recovered,4
+PT0064,Andrew Martin,Female,16,Pediatrics,Chickenpox,Amy Horton,2023-11-29,2024-04-27,150,49573.7,Recovered,6
+PT0065,Steven Russell,Female,39,Neurology,Epilepsy,Amanda Davis,2024-10-21,2024-11-18,28,9700.8,Recovered,8
+PT0066,Timothy Gomez,Male,6,Dermatology,Acne,Chad Oconnor,2024-05-01,2024-09-22,144,29356.43,Recovered,9
+PT0067,Anita Adams,Female,54,Orthopedics,Fracture,Samantha Mccarthy,2023-12-22,2024-09-11,264,16214.79,Recovered,9
+PT0068,Tracy Dawson,Male,21,Cardiology,Heart Attack,Jill Martinez,2023-09-19,2024-04-06,200,14916.2,Recovered,8
+PT0069,Rhonda Terry,Female,55,Pediatrics,Flu,James Barker,2025-03-06,2025-04-14,39,37289.52,Recovered,3
+PT0070,Christina Jackson,Male,62,Orthopedics,Arthritis,Jerry Miller,2025-04-24,2025-06-11,48,48899.8,Recovered,5
+PT0071,Daniel Bailey,Female,66,Pediatrics,Flu,William Vasquez,2023-09-24,2024-11-20,423,10891.04,Recovered,10
+PT0072,Mrs. Alexandria Lopez,Female,25,Dermatology,Acne,David Johnson,2025-04-01,2025-04-01,0,42341.84,Recovered,7
+PT0073,Alec Gould,Male,82,Oncology,Lung Cancer,Kenneth Saunders,2023-12-17,2024-06-25,191,27084.04,Recovered,3
+PT0074,Travis Padilla,Female,13,Pediatrics,Flu,Cheryl Ali,2025-02-19,2025-03-09,18,28609.51,Recovered,2
+PT0075,Kimberly Dalton,Male,69,Dermatology,Acne,Robin Evans,2024-06-01,2024-10-21,142,41488.6,Recovered,6
+PT0076,Robyn Jackson,Male,33,Pediatrics,Flu,Patricia Dean,2025-04-10,2025-05-15,35,43054.56,Recovered,1
+PT0077,Joseph Solomon,Female,38,Pediatrics,Chickenpox,Jeff Miller,2025-04-21,2025-05-05,14,29183.26,Recovered,3
+PT0078,Walter Rivers,Female,66,Cardiology,Arrhythmia,John Molina,2025-06-02,2025-06-04,2,13983.13,Under Treatment,10
+PT0079,Amber Jones,Female,85,Neurology,Epilepsy,Rita Richardson,2024-10-17,2025-04-16,181,45301.2,Under Treatment,6
+PT0080,Christina Spencer,Male,45,Cardiology,Hypertension,Steven Obrien,2024-10-21,2025-05-20,211,42100.83,Recovered,2
+PT0081,Blake Bell,Female,26,Oncology,Lung Cancer,Steven Anderson,2025-05-27,2025-06-05,9,32352.84,Recovered,2
+PT0082,Robert Chambers,Female,54,General Medicine,Fever,Ruth Everett,2025-03-28,2025-06-22,86,36059.43,Under Treatment,10
+PT0083,Jessica Mcmillan,Male,66,Oncology,Leukemia,Melinda Houston,2025-05-25,2025-07-03,39,20835.64,Recovered,9
+PT0084,Ryan Allen,Male,6,Pediatrics,Chickenpox,Jonathan George,2025-05-19,2025-06-16,28,48155.56,Recovered,1
+PT0085,Jonathan Anderson IV,Male,87,General Medicine,Diabetes,Tiffany Thomas,2024-05-08,2025-01-10,247,46326.68,Recovered,5
+PT0086,Michael Berg,Female,57,General Medicine,Fever,Steven Miller,2025-06-13,2025-06-19,6,12897.46,Recovered,2
+PT0087,Carlos Woodard,Male,17,Orthopedics,Arthritis,Gary Clark,2023-11-26,2024-04-13,139,49486.21,Recovered,7
+PT0088,Kenneth Riggs,Female,8,Dermatology,Eczema,Catherine Jimenez,2023-08-26,2024-05-08,256,46918.09,Recovered,6
+PT0089,Regina Mullins,Female,47,General Medicine,Thyroid,Jose Williams,2024-01-27,2024-05-19,113,26504.07,Recovered,3
+PT0090,Robert Moore,Female,76,Dermatology,Acne,Maria Baker,2025-01-18,2025-05-29,131,18655.94,Recovered,7
+PT0091,Melissa Manning,Female,88,Pediatrics,Flu,David Anderson,2025-04-26,2025-06-09,44,20254.71,Under Treatment,8
+PT0092,Kaitlin Hendrix,Male,13,Pediatrics,Chickenpox,Jeffrey Vasquez,2023-08-08,2023-08-17,9,35616.53,Recovered,7
+PT0093,Ms. Amy Contreras,Male,63,Oncology,Lung Cancer,Thomas Murphy,2024-02-03,2024-12-31,332,47750.15,Under Treatment,6
+PT0094,Katie Parks,Female,35,Pediatrics,Bronchitis,Douglas Decker,2024-04-06,2024-05-10,34,49079.38,Recovered,6
+PT0095,Matthew Davis,Female,11,Pediatrics,Flu,Heather Williams,2025-05-31,2025-06-09,9,23195.23,Recovered,7
+PT0096,Francisco Roy,Female,68,Cardiology,Hypertension,Alexander Henderson,2023-11-18,2025-05-18,547,42527.55,Recovered,8
+PT0097,Mrs. Brianna Cooper,Male,45,Neurology,Stroke,Jessica Martin,2025-06-08,2025-06-10,2,11680.09,Under Treatment,8
+PT0098,Ryan Wright,Female,46,Dermatology,Psoriasis,Michael Velasquez,2024-08-06,2025-03-30,236,17191.66,Recovered,1
+PT0099,Christina Whitaker,Female,83,General Medicine,Diabetes,Lisa Ball,2024-01-21,2024-01-30,9,18950.41,Recovered,6
+PT0100,Gloria Romero,Female,46,Pediatrics,Chickenpox,Julie Vega,2025-01-26,2025-06-06,131,30777.87,Recovered,7
+PT0101,Jennifer Evans,Female,88,General Medicine,Diabetes,Adam Ross,2024-05-30,2024-09-15,108,17904.69,Under Treatment,2
+PT0102,Michael Kelley,Male,77,Cardiology,Heart Attack,Patty Mcdonald,2024-05-17,2025-02-15,274,42359.62,Recovered,5
+PT0103,Shannon Tucker,Male,39,General Medicine,Fever,William Logan,2023-08-05,2024-09-12,404,6087.16,Recovered,8
+PT0104,Kevin Ayala,Male,77,Oncology,Leukemia,Hannah Byrd,2025-06-20,2025-06-25,5,17596.39,Recovered,7
+PT0105,Taylor Dickerson,Male,2,Pediatrics,Flu,Nicholas Rogers,2025-04-11,2025-06-13,63,38815.92,Recovered,2
+PT0106,Brian Fernandez,Female,76,Oncology,Breast Cancer,Samuel Rose,2024-05-15,2024-09-23,131,37854.23,Recovered,6
+PT0107,Regina Robinson,Female,19,Pediatrics,Flu,Steven Rivers,2025-06-06,2025-06-28,22,27569.27,Recovered,6
+PT0108,Susan Velez,Male,62,Neurology,Migraine,Heather Harrison,2024-02-20,2024-06-07,108,8412.23,Deceased,6
+PT0109,Pam Calderon,Male,48,Neurology,Stroke,Amber Summers,2025-01-24,2025-03-06,41,25901.09,Recovered,6
+PT0110,Felicia Garcia,Male,24,Cardiology,Arrhythmia,Andrew Lee,2024-12-22,2025-05-05,134,28566.9,Recovered,2
+PT0111,Alyssa Chang,Male,40,Cardiology,Heart Attack,Kyle Lewis,2024-07-26,2024-10-14,80,30153.28,Recovered,8
+PT0112,Linda Cross,Female,63,Pediatrics,Flu,Amanda Smith,2024-03-11,2024-05-19,69,26095.81,Recovered,3
+PT0113,Steve Sparks,Female,11,Dermatology,Psoriasis,Allison Sanchez,2024-08-06,2024-11-05,91,18009.61,Recovered,5
+PT0114,Jonathon Gonzales,Female,71,Pediatrics,Bronchitis,Blake Mcclure DVM,2023-08-04,2023-09-14,41,39093.88,Recovered,3
+PT0115,Corey Smith,Female,58,Pediatrics,Chickenpox,David Jordan,2023-10-06,2024-11-03,394,41068.59,Recovered,7
+PT0116,Crystal Delgado,Female,73,General Medicine,Thyroid,Brandy Stewart,2025-01-23,2025-03-07,43,41922.91,Recovered,5
+PT0117,Matthew Marshall,Male,78,Neurology,Epilepsy,Brian Rhodes,2023-09-13,2024-05-04,234,6827.14,Under Treatment,10
+PT0118,Natasha Beltran DDS,Female,75,Orthopedics,Dislocation,Christy Andrade,2023-07-23,2025-03-25,611,11181.29,Recovered,5
+PT0119,Curtis Austin,Male,34,General Medicine,Fever,Troy Beasley,2024-01-27,2024-02-28,32,49595.24,Recovered,4
+PT0120,James Little,Male,28,Cardiology,Arrhythmia,Cheryl Sanders,2024-08-27,2025-06-25,302,42967.79,Recovered,6
+PT0121,Sara Baker,Female,70,Oncology,Breast Cancer,Bobby Poole,2023-08-18,2024-08-04,352,22267.95,Recovered,7
+PT0122,Sierra Nelson,Female,66,Neurology,Epilepsy,Sierra Smith,2023-10-25,2024-10-29,370,15300.57,Recovered,3
+PT0123,Brandon Galloway,Female,54,Pediatrics,Chickenpox,Tracy Campbell,2025-05-22,2025-06-29,38,33965.36,Recovered,3
+PT0124,Juan Rogers,Female,81,Neurology,Epilepsy,Kristen Mendoza,2024-09-27,2024-12-11,75,23036.61,Recovered,5
+PT0125,Eddie Nash,Male,23,Dermatology,Acne,Mark Gordon Jr.,2023-12-01,2025-02-27,454,24274.15,Recovered,9
+PT0126,Zachary Bender,Male,72,Dermatology,Eczema,Lauren Smith,2024-04-13,2024-10-07,177,12186.65,Recovered,4
+PT0127,Jacob Shepherd,Male,48,General Medicine,Diabetes,Angela Brown,2023-08-24,2025-05-09,624,36216.73,Recovered,7
+PT0128,Margaret Camacho,Male,12,Orthopedics,Fracture,Joanna Massey,2024-07-14,2025-03-29,258,10477.51,Recovered,7
+PT0129,Ellen Pace,Male,24,Oncology,Breast Cancer,William Goodwin,2024-07-16,2024-09-08,54,42991.39,Recovered,6
+PT0130,Madison Murillo,Male,39,Pediatrics,Bronchitis,John Sims,2023-12-16,2024-07-07,204,23573.87,Recovered,8
+PT0131,Sarah Mcintyre,Female,74,Cardiology,Arrhythmia,Melinda Klein,2025-01-17,2025-05-19,122,35175.63,Recovered,3
+PT0132,Marc Johnson,Female,57,Orthopedics,Arthritis,Samuel Moore,2024-02-08,2024-06-29,142,29520.91,Recovered,9
+PT0133,Marie Davis,Female,71,Cardiology,Heart Attack,Kyle Silva,2025-05-14,2025-07-04,51,29634.66,Recovered,1
+PT0134,Tyler Swanson,Female,77,Cardiology,Heart Attack,Dr. Nicole Harrison,2025-04-04,2025-04-27,23,15629.45,Recovered,10
+PT0135,Amanda Ross,Male,45,Neurology,Epilepsy,Terry Bell,2024-12-24,2025-04-11,108,12572.35,Under Treatment,8
+PT0136,Brittany Moore,Male,31,Oncology,Breast Cancer,Audrey Werner,2023-09-21,2024-11-15,421,37867.94,Recovered,10
+PT0137,Nicholas Brock,Female,67,Dermatology,Acne,Donald Scott,2025-02-08,2025-06-18,130,17638.99,Recovered,10
+PT0138,Heather Davis,Female,66,Oncology,Lung Cancer,Cassandra Obrien DDS,2024-11-01,2025-02-12,103,49106.12,Recovered,4
+PT0139,Phillip Gibbs,Male,84,Pediatrics,Flu,Rachael Perry,2025-01-03,2025-05-08,125,46986.73,Recovered,5
+PT0140,David Strong,Male,14,Orthopedics,Fracture,Elizabeth Wilson,2024-12-23,2025-03-31,98,48744.71,Recovered,7
+PT0141,Tommy Thomas,Female,7,Pediatrics,Chickenpox,Kathryn Grant,2023-10-31,2024-02-28,120,11870.13,Recovered,2
+PT0142,Kimberly Baker,Female,14,Dermatology,Acne,James Gaines,2025-02-19,2025-06-26,127,41464.39,Recovered,4
+PT0143,Kristina Archer,Male,89,Pediatrics,Chickenpox,Jacob Harrison,2023-11-27,2024-08-10,257,48051.21,Recovered,6
+PT0144,Nicole Williams,Female,35,Orthopedics,Dislocation,Margaret Brewer,2025-02-04,2025-06-01,117,39092.35,Recovered,1
+PT0145,Jennifer Lloyd,Female,86,Orthopedics,Fracture,Aaron Wolfe,2025-05-01,2025-05-31,30,45709.8,Recovered,10
+PT0146,Adrienne Lee,Female,12,Cardiology,Heart Attack,Monica Brown,2023-12-07,2024-03-18,102,49241.49,Recovered,9
+PT0147,April Irwin,Male,74,Pediatrics,Bronchitis,Crystal Cline,2024-11-04,2025-05-15,192,28836.4,Recovered,6
+PT0148,Janet Little,Male,1,General Medicine,Fever,Stanley Oneill,2024-11-02,2025-01-20,79,38277.25,Recovered,2
+PT0149,Jeffery Rojas,Female,86,Cardiology,Heart Attack,Samantha Glass,2024-07-16,2025-05-24,312,14223.9,Recovered,3
+PT0150,David Thompson,Female,1,General Medicine,Diabetes,Daniel Johnson,2023-09-17,2024-05-24,250,30546.06,Recovered,10
+PT0151,Patrick Brooks,Male,19,Neurology,Epilepsy,Keith Murphy,2024-12-19,2025-03-08,79,30296.86,Recovered,5
+PT0152,Lori Keith,Male,50,Pediatrics,Bronchitis,Savannah Ray,2025-03-22,2025-05-25,64,43191.52,Recovered,3
+PT0153,Victor Morgan,Male,17,Orthopedics,Fracture,Jacob Brown,2024-09-20,2025-04-27,219,5188.86,Recovered,2
+PT0154,Michael Robinson,Male,30,General Medicine,Fever,Tanya Bell,2024-05-19,2024-08-09,82,29315.47,Recovered,7
+PT0155,Lynn Carpenter,Female,29,Neurology,Epilepsy,Joshua Eaton,2025-06-04,2025-07-03,29,42138.28,Recovered,9
+PT0156,Scott Wilson,Female,85,Cardiology,Hypertension,Patty Cisneros,2024-06-05,2024-09-26,113,29227.08,Recovered,7
+PT0157,Jesse Young,Male,36,Orthopedics,Arthritis,Margaret Rice,2025-03-01,2025-03-12,11,29865.64,Recovered,7
+PT0158,Joseph Rodriguez,Male,20,Oncology,Breast Cancer,David Rodriguez,2024-09-02,2025-01-17,137,6109.87,Under Treatment,1
+PT0159,Rachel Byrd,Female,5,Orthopedics,Fracture,George Stephens,2023-12-30,2024-10-17,292,19560.46,Recovered,5
+PT0160,Holly Medina,Male,43,Cardiology,Hypertension,Victoria Gray,2024-05-31,2024-07-04,34,7949.76,Recovered,5
+PT0161,Cynthia Henry,Male,61,Cardiology,Hypertension,Lori Walters,2024-09-20,2024-11-11,52,7840.86,Recovered,9
+PT0162,Dominic Villanueva,Female,64,Pediatrics,Flu,Michael Long,2024-08-31,2024-09-14,14,11120.57,Under Treatment,9
+PT0163,Kimberly Marquez,Female,4,General Medicine,Diabetes,Thomas Stone,2024-09-13,2025-04-05,204,15917.86,Under Treatment,9
+PT0164,Benjamin Dean,Male,19,Neurology,Epilepsy,Taylor Lewis,2024-09-04,2024-10-30,56,36979.08,Recovered,5
+PT0165,Stephen Flores,Male,52,Dermatology,Acne,David Lee,2025-05-31,2025-06-15,15,26959.71,Recovered,10
+PT0166,Jose Porter,Male,15,Neurology,Stroke,Anthony Miller,2024-08-28,2024-09-06,9,30621.59,Recovered,5
+PT0167,Kathryn Howard,Male,63,Dermatology,Acne,Melissa Boyd,2023-11-06,2024-11-07,367,6484.41,Recovered,3
+PT0168,Dr. Patricia King MD,Female,63,Oncology,Leukemia,Nathan Bonilla,2024-05-26,2024-08-06,72,40765.98,Recovered,8
+PT0169,Donna Wu,Female,10,Dermatology,Acne,Jessica Dunn,2024-06-24,2024-10-14,112,5637.17,Recovered,7
+PT0170,Carlos Nichols,Male,74,General Medicine,Diabetes,Helen Roberts,2024-07-11,2024-11-10,122,15083.95,Recovered,3
+PT0171,Sara Gill,Male,20,Pediatrics,Chickenpox,Rebecca Adams,2024-07-18,2025-02-15,212,8479.01,Recovered,7
+PT0172,Sandra Vaughan,Female,34,Neurology,Stroke,Joel Jackson,2025-03-28,2025-06-16,80,44602.34,Recovered,6
+PT0173,Christopher Whitney,Male,7,Dermatology,Eczema,William Yang,2023-07-20,2024-01-20,184,26321.08,Recovered,9
+PT0174,Timothy Lindsey,Male,32,Cardiology,Hypertension,Daniel Ritter,2025-03-07,2025-06-30,115,11765.44,Recovered,6
+PT0175,Anthony Gonzalez,Male,9,Dermatology,Eczema,Christopher Cooper,2025-04-04,2025-06-19,76,18000.68,Recovered,5
+PT0176,Russell Brown,Male,89,Cardiology,Heart Attack,Kayla Moreno,2024-08-21,2025-04-03,225,19364.21,Under Treatment,4
+PT0177,Virginia Lynch,Female,12,Pediatrics,Bronchitis,Donald Sparks,2023-10-21,2025-01-28,465,41234.01,Under Treatment,4
+PT0178,Molly Schultz,Male,8,Cardiology,Heart Attack,Victor Rodriguez,2025-03-15,2025-04-10,26,35273.75,Recovered,8
+PT0179,Teresa Watkins,Male,73,Orthopedics,Arthritis,Corey Simmons,2024-12-20,2025-06-07,169,25820.82,Recovered,9
+PT0180,Adriana Padilla,Male,7,Orthopedics,Fracture,William Sanders,2024-10-19,2025-03-15,147,11985.28,Recovered,7
+PT0181,Mrs. Pamela Dunn,Female,75,Cardiology,Hypertension,Craig Zuniga,2024-07-26,2024-12-29,156,14735.74,Recovered,4
+PT0182,Paul Graves,Male,52,Cardiology,Arrhythmia,Elizabeth Bowman,2023-10-17,2024-02-05,111,44370.13,Under Treatment,1
+PT0183,Mr. Jason Grant,Female,48,Cardiology,Heart Attack,Mark Shelton,2024-08-28,2024-11-11,75,8343.59,Recovered,5
+PT0184,Devin Wilson,Male,68,Orthopedics,Arthritis,Kelly Martinez,2024-08-18,2024-09-06,19,14048.66,Recovered,10
+PT0185,Gregory Bates,Male,73,Pediatrics,Chickenpox,Rachel Little,2025-04-08,2025-05-23,45,26515.62,Recovered,6
+PT0186,Beverly Smith,Male,49,Orthopedics,Dislocation,Scott Gardner,2025-01-12,2025-02-16,35,45419.41,Recovered,4
+PT0187,Angela Long,Male,35,Neurology,Stroke,Stephanie James,2025-06-06,2025-06-11,5,40076.9,Recovered,7
+PT0188,John Mendoza,Male,48,Oncology,Breast Cancer,Adam Lewis,2024-01-13,2024-08-03,203,23673.04,Recovered,5
+PT0189,Amanda Sullivan,Male,77,Orthopedics,Fracture,Douglas Moore,2025-05-11,2025-05-26,15,38582.94,Recovered,10
+PT0190,Joshua Foster,Male,72,Orthopedics,Arthritis,Bill Jenkins,2024-03-08,2024-09-22,198,26405.92,Recovered,8
+PT0191,Jeff Hall,Female,35,Neurology,Stroke,Ashley Gonzales,2025-04-30,2025-05-02,2,26646.46,Recovered,9
+PT0192,Katherine Walker,Male,22,Pediatrics,Bronchitis,Christopher Malone,2023-11-05,2024-01-09,65,40471.8,Recovered,3
+PT0193,Sara Gilbert,Male,47,General Medicine,Fever,William Gardner,2023-11-23,2024-11-29,372,46333.4,Recovered,8
+PT0194,Brian Morales,Female,19,Oncology,Lung Cancer,Thomas Powers,2024-12-06,2025-03-28,112,12847.63,Recovered,9
+PT0195,Brian Sanchez,Female,32,Dermatology,Eczema,Crystal Norris,2023-08-28,2024-01-26,151,31900.18,Recovered,8
+PT0196,Rebecca Lara,Female,80,General Medicine,Thyroid,Abigail Flores,2024-04-19,2024-04-20,1,10761.47,Recovered,3
+PT0197,Susan Lopez,Male,16,Neurology,Stroke,Shelia Yates,2024-08-28,2024-11-20,84,40139.44,Recovered,4
+PT0198,Peter Washington,Male,22,Cardiology,Heart Attack,Jesse Austin,2024-12-07,2025-01-22,46,24056.31,Under Treatment,8
+PT0199,Meghan Underwood,Female,42,Orthopedics,Fracture,Joseph Clarke,2024-09-13,2025-05-24,253,9670.38,Recovered,4
+PT0200,Megan Vaughn,Female,4,Dermatology,Psoriasis,Darius Clark,2024-01-10,2024-10-07,271,10938.36,Under Treatment,5
+PT0201,Denise Martinez,Female,89,Cardiology,Hypertension,Mary Jones,2023-10-03,2024-12-22,446,25914.44,Recovered,7
+PT0202,Amanda Davis,Male,70,General Medicine,Fever,Savannah Robinson,2023-11-16,2024-04-20,156,29898.98,Recovered,6
+PT0203,Sarah Collins MD,Male,76,Oncology,Lung Cancer,Danielle Moore,2023-12-18,2024-07-03,198,45591.48,Recovered,9
+PT0204,Dr. David Kelly,Male,66,Oncology,Breast Cancer,Jason Johnson,2025-06-07,2025-06-17,10,12780.84,Recovered,9
+PT0205,John Graves,Female,58,Pediatrics,Chickenpox,Jessica Walters,2024-07-02,2025-01-23,205,31544.95,Recovered,1
+PT0206,Raymond Finley,Male,43,Orthopedics,Fracture,Jeremy Hubbard,2025-06-12,2025-06-17,5,9835.28,Recovered,9
+PT0207,Linda Dunn,Female,79,Orthopedics,Dislocation,Tina Patterson,2023-11-08,2025-07-03,603,7974.98,Under Treatment,3
+PT0208,Dana Lee,Male,4,Neurology,Migraine,Lisa Howe,2023-11-11,2024-05-14,185,19096.34,Recovered,6
+PT0209,Melissa Ferguson,Female,51,Orthopedics,Arthritis,Julie Garner,2024-06-11,2024-11-06,148,46236.54,Recovered,6
+PT0210,Veronica Ellis,Male,78,Dermatology,Eczema,Jose Sanders,2023-09-04,2024-08-02,333,49927.66,Recovered,10
+PT0211,Jordan Lewis,Female,84,Neurology,Migraine,Philip Buck,2023-10-18,2025-05-26,586,29694.31,Recovered,1
+PT0212,Monica Moore,Female,73,Oncology,Leukemia,Luis James,2024-06-17,2024-10-19,124,25996.68,Under Treatment,9
+PT0213,Louis Mcdonald,Male,67,Oncology,Lung Cancer,James Medina,2024-02-21,2024-04-21,60,17236.17,Recovered,5
+PT0214,Michael Fisher,Female,41,Neurology,Stroke,Jamie Fox DDS,2024-01-06,2024-11-23,322,15673.94,Recovered,1
+PT0215,Stacey Arias,Female,46,Neurology,Epilepsy,Jared Henry,2024-10-14,2024-11-12,29,7508.43,Recovered,5
+PT0216,Stephanie Castillo,Male,22,Dermatology,Acne,Adam Miller,2024-07-02,2025-02-11,224,20616.85,Recovered,3
+PT0217,Amanda Kaufman,Male,84,Orthopedics,Arthritis,Michael Williams,2024-12-14,2025-03-13,89,11492.37,Deceased,1
+PT0218,Janet Edwards,Female,88,Dermatology,Eczema,Micheal Freeman,2023-09-28,2024-11-19,418,31253.56,Recovered,2
+PT0219,Melissa Bates,Female,49,Pediatrics,Chickenpox,Scott Hughes,2024-12-26,2025-06-10,166,32111.82,Recovered,9
+PT0220,Martha Cohen,Female,10,Orthopedics,Fracture,Sherri Pena,2023-12-04,2024-08-01,241,30099.12,Deceased,9
+PT0221,Danny Wilson,Male,58,Dermatology,Acne,Jason Knapp,2024-11-21,2025-02-28,99,30284.15,Recovered,5
+PT0222,Carol Bates,Male,8,General Medicine,Fever,Shane Martin,2025-03-15,2025-03-20,5,5669.7,Recovered,5
+PT0223,John Johnson,Male,9,Neurology,Stroke,Jessica Lang,2025-04-13,2025-06-02,50,23737.46,Recovered,2
+PT0224,Rachel Beasley,Female,85,Oncology,Lung Cancer,Samuel Douglas,2025-03-30,2025-06-22,84,48675.91,Recovered,6
+PT0225,Kevin Bennett,Female,67,Dermatology,Acne,Stephanie Gonzales,2024-06-04,2025-01-28,238,34949.62,Deceased,2
+PT0226,Brandon Williams,Male,37,Oncology,Lung Cancer,Maureen Johnson,2025-01-18,2025-06-12,145,46673.56,Recovered,6
+PT0227,Andrea Perry,Female,42,General Medicine,Fever,Emily Silva,2023-07-08,2025-01-14,556,20032.68,Recovered,6
+PT0228,Yolanda Molina,Male,18,Oncology,Breast Cancer,Betty Ho,2024-04-18,2024-12-11,237,23549.25,Recovered,8
+PT0229,Emily Pittman,Female,22,Neurology,Epilepsy,Katherine Moore,2025-04-06,2025-07-02,87,33710.04,Recovered,7
+PT0230,Rachel Smith,Female,37,Cardiology,Heart Attack,Laura Mckee,2023-10-23,2024-12-05,409,17925.64,Recovered,8
+PT0231,Matthew Henry,Male,46,General Medicine,Diabetes,Brian Todd,2024-01-09,2024-03-16,67,41740.34,Recovered,3
+PT0232,Miranda Daniels,Male,28,Dermatology,Eczema,Samantha Burch,2025-03-13,2025-04-15,33,14695.34,Recovered,3
+PT0233,Michele Dalton,Male,71,Dermatology,Psoriasis,Alexa Hawkins,2024-02-28,2025-06-28,486,33626.11,Recovered,4
+PT0234,Jacqueline Villanueva,Male,58,Pediatrics,Bronchitis,Lauren Payne,2025-04-20,2025-05-14,24,31192.5,Recovered,8
+PT0235,Raymond Garcia,Male,47,Dermatology,Psoriasis,Susan Santiago,2024-09-30,2025-05-29,241,20794.96,Recovered,3
+PT0236,Leslie Barron,Female,87,Pediatrics,Bronchitis,Eugene Peterson,2024-10-22,2024-11-24,33,36230.42,Recovered,4
+PT0237,William Mason,Female,56,Pediatrics,Chickenpox,Patrick Burnett,2024-06-11,2024-07-20,39,36514.53,Recovered,1
+PT0238,Brian Roy,Female,17,Oncology,Breast Cancer,Lisa Davis,2023-11-20,2024-08-22,276,9487.61,Recovered,2
+PT0239,Joseph Morrison,Female,42,Neurology,Migraine,Lauren Rodriguez,2025-06-15,2025-06-27,12,25336.23,Recovered,6
+PT0240,Heather Anderson,Female,73,Neurology,Stroke,Sarah Wood,2025-01-23,2025-06-03,131,44197.21,Recovered,9
+PT0241,Robert Taylor,Female,53,General Medicine,Thyroid,Susan Meyers,2024-04-06,2024-05-25,49,6114.9,Recovered,8
+PT0242,Carla Munoz,Male,52,General Medicine,Fever,Robert Austin,2024-05-28,2025-02-07,255,13038.56,Deceased,2
+PT0243,Lindsay Barnes,Male,31,Oncology,Lung Cancer,Tom Cook,2024-07-29,2025-01-01,156,11605.25,Recovered,1
+PT0244,Leslie Perry,Female,20,General Medicine,Fever,Anthony Nguyen,2024-10-18,2025-01-26,100,27597.85,Recovered,7
+PT0245,Kimberly Johnson,Female,69,Cardiology,Hypertension,Heidi Kaiser,2024-04-11,2025-03-26,349,15623.64,Recovered,1
+PT0246,Michael Williams,Male,31,Pediatrics,Flu,Susan Baker,2024-01-09,2024-08-09,213,46681.95,Recovered,3
+PT0247,Alexander Villarreal,Female,28,Pediatrics,Chickenpox,William Allen,2023-10-18,2024-05-15,210,28550.27,Under Treatment,7
+PT0248,Lucas Rivas,Male,4,Neurology,Stroke,Kayla Lynch,2024-07-04,2025-02-10,221,35353.97,Under Treatment,3
+PT0249,Rachel Mejia,Male,75,Orthopedics,Fracture,Jennifer Morales,2024-08-13,2025-05-11,271,48941.98,Recovered,5
+PT0250,Hannah Maldonado,Female,84,Orthopedics,Arthritis,Kim Johnson,2025-03-05,2025-03-19,14,16180.3,Recovered,8
+PT0251,Kathryn Wong,Male,68,Oncology,Breast Cancer,Melissa Moore,2023-12-16,2024-05-11,147,47296.95,Recovered,9
+PT0252,Michael Medina,Female,54,Cardiology,Heart Attack,Jerry Holland,2024-03-17,2024-11-10,238,41609.27,Recovered,3
+PT0253,Gerald Thompson,Female,9,Neurology,Stroke,Janet Berry,2024-08-09,2024-10-10,62,46294.65,Recovered,1
+PT0254,Raymond Guerra,Female,71,Cardiology,Heart Attack,John White,2024-09-24,2024-12-31,98,26230.12,Recovered,10
+PT0255,Robert Garner,Female,79,Pediatrics,Flu,Megan Chen,2025-06-22,2025-07-04,12,10973.92,Recovered,6
+PT0256,Matthew Anderson,Male,62,Orthopedics,Dislocation,Phyllis Tran,2025-05-20,2025-06-30,41,47479.18,Recovered,1
+PT0257,Peter Hendrix,Male,53,Neurology,Migraine,Fred Brown,2024-04-14,2024-07-25,102,27223.83,Recovered,1
+PT0258,Heather Gomez,Male,46,Neurology,Stroke,Jeffrey Nguyen,2024-04-05,2024-06-12,68,8151.18,Recovered,7
+PT0259,Susan Smith,Male,81,General Medicine,Thyroid,Rebecca Barton,2023-08-24,2025-07-02,678,18477.11,Recovered,2
+PT0260,Monica Ramirez,Female,28,Pediatrics,Bronchitis,Brandon Steele,2024-02-24,2025-04-18,419,24987.69,Recovered,7
+PT0261,Stephanie Warren,Male,39,Cardiology,Hypertension,Melissa Abbott,2023-07-23,2024-07-23,366,45740.71,Recovered,3
+PT0262,Vanessa Park,Male,77,Neurology,Stroke,Mary Walker,2024-08-08,2024-08-27,19,34403.01,Recovered,3
+PT0263,George Spencer,Male,12,Cardiology,Hypertension,Christian Francis,2023-09-09,2025-05-12,611,7448.84,Deceased,10
+PT0264,Donald Hayes,Female,52,General Medicine,Thyroid,Jason White,2024-03-05,2024-12-31,301,33641.78,Under Treatment,7
+PT0265,Andrew Watkins,Female,46,General Medicine,Diabetes,Alan Ward,2024-01-26,2025-04-02,432,44700.38,Under Treatment,10
+PT0266,Crystal Dean,Female,66,General Medicine,Thyroid,Michael Garrett,2024-06-14,2024-11-10,149,11749.24,Recovered,5
+PT0267,Gary Wright,Female,62,Pediatrics,Chickenpox,Samantha Wheeler,2025-03-05,2025-03-05,0,21511.39,Recovered,2
+PT0268,Kevin Barber,Female,38,Orthopedics,Dislocation,Kelli Swanson,2025-04-01,2025-06-10,70,23152.73,Recovered,3
+PT0269,Shannon Ray,Female,25,Pediatrics,Chickenpox,Vincent Solomon,2024-08-12,2025-05-24,285,29791.24,Recovered,5
+PT0270,Amanda Klein,Male,5,Pediatrics,Bronchitis,Joseph Jones,2025-03-02,2025-03-13,11,37441.3,Recovered,3
+PT0271,Brian Wilson,Female,79,Orthopedics,Arthritis,Marie Parrish,2025-01-21,2025-02-01,11,48243.71,Recovered,5
+PT0272,Ashley Potts,Female,8,Orthopedics,Fracture,Danielle Nicholson,2025-05-19,2025-06-06,18,10891.33,Recovered,2
+PT0273,Ryan Campbell,Male,13,Pediatrics,Chickenpox,Kayla Nunez,2024-08-11,2025-02-18,191,7241.01,Recovered,3
+PT0274,Nancy Blair,Female,74,Oncology,Lung Cancer,Monica Miller,2025-02-24,2025-04-06,41,21371.18,Recovered,7
+PT0275,Elizabeth Gonzalez,Male,33,Cardiology,Heart Attack,Stacy Allen,2024-08-29,2024-10-28,60,31417.77,Under Treatment,3
+PT0276,Mark Sawyer,Female,40,Orthopedics,Fracture,Bobby Phillips,2025-03-29,2025-04-09,11,7466.88,Recovered,8
+PT0277,Alexander Clements,Female,49,Pediatrics,Chickenpox,Kathryn Gonzalez,2024-08-13,2024-11-05,84,8811.0,Recovered,2
+PT0278,Michael Compton,Female,61,General Medicine,Thyroid,Daniel Hernandez,2023-11-16,2024-06-04,201,31069.94,Recovered,8
+PT0279,Leslie Duncan,Female,52,General Medicine,Thyroid,Dawn Webb,2024-06-21,2024-09-14,85,23663.08,Recovered,7
+PT0280,Michael Robinson,Male,43,Cardiology,Arrhythmia,Christopher Stone,2023-12-21,2025-05-09,505,44124.13,Deceased,1
+PT0281,Sheila Willis,Female,38,Neurology,Epilepsy,Amanda Mccoy,2024-04-09,2024-11-13,218,16450.71,Recovered,3
+PT0282,Wayne Jackson,Female,35,Oncology,Leukemia,David Bryan,2024-12-17,2024-12-30,13,35681.44,Recovered,4
+PT0283,Brian Price,Male,10,Neurology,Migraine,Lance Wagner,2024-02-27,2024-10-16,232,11220.64,Under Treatment,6
+PT0284,Diana Casey,Female,32,Neurology,Migraine,Kathryn Williams,2024-05-26,2025-06-16,386,22800.64,Recovered,3
+PT0285,Andrea Clark,Female,2,General Medicine,Diabetes,Yvonne Norton,2024-10-21,2025-04-01,162,31427.55,Recovered,7
+PT0286,Alicia Martin,Male,44,Dermatology,Acne,Donald Griffin,2024-06-20,2024-08-07,48,29359.92,Deceased,7
+PT0287,Jose Lopez,Female,25,Dermatology,Psoriasis,Kevin Yates,2025-01-16,2025-07-03,168,29551.16,Recovered,5
+PT0288,Robert Norris,Male,45,Dermatology,Psoriasis,Jennifer Washington,2024-10-22,2024-12-17,56,26858.66,Under Treatment,2
+PT0289,Allison Cross,Male,50,Dermatology,Psoriasis,Tiffany Carr,2024-10-14,2025-04-17,185,40728.49,Recovered,6
+PT0290,Olivia Fleming,Female,66,Cardiology,Hypertension,Erik Fox,2024-04-27,2024-12-24,241,37621.46,Deceased,7
+PT0291,Whitney Reynolds,Male,52,Pediatrics,Flu,Beth Leonard,2023-09-26,2024-01-08,104,18552.69,Recovered,7
+PT0292,Carmen Ewing,Male,53,Dermatology,Psoriasis,Kevin Graves,2024-06-18,2025-06-24,371,18909.01,Recovered,10
+PT0293,Shannon Martinez,Female,27,Neurology,Stroke,Joanna Peters,2023-08-30,2024-01-03,126,35369.43,Recovered,1
+PT0294,Michael Cardenas,Female,37,Orthopedics,Fracture,Steven Garner,2025-04-01,2025-04-07,6,46573.87,Under Treatment,10
+PT0295,Jennifer Crosby,Male,29,Oncology,Breast Cancer,Dean Meyer,2024-05-24,2024-05-28,4,32404.49,Deceased,7
+PT0296,Jessica Mccall,Male,3,Neurology,Epilepsy,Robert Davis DDS,2025-04-25,2025-06-15,51,29882.4,Under Treatment,6
+PT0297,Christopher Farrell,Female,48,Orthopedics,Fracture,John Barrett,2024-10-23,2025-02-08,108,44292.4,Recovered,6
+PT0298,Curtis Williams,Female,41,Cardiology,Hypertension,Patrick Cobb,2024-06-22,2025-06-26,369,49916.26,Recovered,8
+PT0299,Alexis Moore,Male,42,Pediatrics,Flu,Henry Webster,2024-10-23,2024-11-08,16,14633.46,Recovered,7
+PT0300,Dean Klein MD,Male,31,Oncology,Leukemia,Justin Rivera,2023-12-07,2024-09-26,294,16284.65,Recovered,1
+PT0301,Veronica Carlson,Male,31,General Medicine,Thyroid,Betty Parks,2024-06-10,2025-04-15,309,40688.16,Recovered,9
+PT0302,Ryan Owens,Female,23,Orthopedics,Dislocation,Gary Mccarthy,2023-09-08,2023-09-18,10,27794.57,Recovered,2
+PT0303,Rhonda Gonzalez,Male,44,Cardiology,Heart Attack,Lisa Wallace,2024-07-31,2025-05-21,294,28481.33,Recovered,2
+PT0304,Katie Anderson,Female,28,General Medicine,Diabetes,Nichole Hansen,2024-02-26,2025-03-02,370,29912.34,Recovered,4
+PT0305,Sara Simmons,Female,19,General Medicine,Thyroid,Joan Long,2024-12-13,2025-02-25,74,26709.94,Recovered,2
+PT0306,Nathan Shields,Male,17,Pediatrics,Chickenpox,Lisa Williams,2024-12-29,2025-01-13,15,24323.29,Recovered,9
+PT0307,John Weaver,Female,24,Pediatrics,Bronchitis,Ryan Haley,2024-09-23,2024-10-20,27,31029.99,Recovered,4
+PT0308,Zachary Norris,Female,61,Orthopedics,Arthritis,Samuel Moreno,2025-01-09,2025-01-31,22,25947.18,Recovered,9
+PT0309,Shelley Collins,Male,68,Cardiology,Arrhythmia,Jessica Johnson,2024-08-01,2025-02-03,186,9331.34,Recovered,8
+PT0310,Nicole Alexander,Female,33,Oncology,Lung Cancer,Tara Warren,2025-03-06,2025-03-19,13,38413.53,Recovered,4
+PT0311,Jerome Carroll,Female,10,Neurology,Migraine,Kelly Farrell,2024-03-31,2024-06-27,88,16957.2,Recovered,2
+PT0312,Eric Roth,Female,34,Neurology,Epilepsy,Daniel Garza,2025-05-29,2025-06-05,7,12896.48,Recovered,7
+PT0313,James Riley,Male,34,Pediatrics,Flu,Amanda Case,2024-08-27,2024-10-13,47,38511.05,Recovered,8
+PT0314,Elizabeth Jones,Male,59,Cardiology,Arrhythmia,Jared Romero,2025-01-10,2025-02-20,41,25489.9,Recovered,3
+PT0315,Mrs. Dana Smith MD,Female,5,Pediatrics,Chickenpox,Stacy Wolf,2024-10-17,2025-01-07,82,17402.61,Recovered,8
+PT0316,Matthew Mcintyre,Male,11,Cardiology,Heart Attack,Jacqueline Todd,2024-02-11,2025-01-09,333,46668.76,Recovered,7
+PT0317,Mark Flores,Female,10,Oncology,Breast Cancer,Robert Garcia,2023-12-13,2024-01-22,40,23558.34,Under Treatment,2
+PT0318,Nathan Winters,Female,8,General Medicine,Thyroid,Diana Ball,2023-12-23,2024-09-21,273,47340.47,Under Treatment,3
+PT0319,Desiree Matthews,Male,36,Cardiology,Heart Attack,Kimberly Weaver,2024-03-01,2024-10-17,230,8742.55,Recovered,9
+PT0320,Dylan Sharp,Female,15,Dermatology,Eczema,Sharon Herrera,2025-05-14,2025-06-22,39,8353.17,Under Treatment,7
+PT0321,Jay Weaver,Male,14,Oncology,Lung Cancer,Spencer Lynch,2025-04-01,2025-05-24,53,36372.92,Recovered,2
+PT0322,Jeffrey Lewis,Male,79,Neurology,Migraine,Donna Perez,2024-11-22,2025-02-22,92,31917.95,Recovered,5
+PT0323,Jason Wilkins,Male,29,Pediatrics,Flu,Jack Wilson,2024-11-19,2025-05-08,170,19425.33,Recovered,2
+PT0324,Lisa Mercado,Female,58,Cardiology,Arrhythmia,Madison Simpson,2025-02-08,2025-05-22,103,49585.68,Recovered,1
+PT0325,Jeffrey Romero,Female,57,Pediatrics,Chickenpox,Matthew Anderson,2023-07-22,2024-10-12,448,26812.18,Recovered,7
+PT0326,Samantha Oneal,Male,6,Orthopedics,Dislocation,Robert Johnson,2023-11-27,2024-03-25,119,41232.39,Recovered,4
+PT0327,Mary Lawrence,Female,79,Cardiology,Hypertension,Christopher Hicks,2024-01-22,2024-06-28,158,25433.0,Recovered,2
+PT0328,Kimberly Olson,Male,26,Oncology,Lung Cancer,Chelsea Davis,2024-03-30,2025-06-18,445,29173.62,Recovered,10
+PT0329,James Simmons,Male,69,Neurology,Epilepsy,Alfred Jordan,2025-06-23,2025-06-28,5,22725.85,Recovered,7
+PT0330,Dennis Mendoza,Male,52,Pediatrics,Flu,Vickie Salazar,2024-12-18,2025-04-23,126,14180.09,Under Treatment,7
+PT0331,Brenda Perez,Male,1,Orthopedics,Fracture,Sherri Moreno,2025-05-01,2025-05-01,0,13988.67,Recovered,8
+PT0332,Robert Green,Female,89,Neurology,Stroke,Melissa Gordon,2025-06-17,2025-06-26,9,47190.68,Recovered,8
+PT0333,Amanda Morrow,Male,77,Dermatology,Acne,Michelle Adams,2023-10-07,2025-02-12,494,21501.92,Recovered,2
+PT0334,Michael Young,Male,74,Oncology,Lung Cancer,Sheri Jenkins,2023-12-06,2024-05-07,153,14721.17,Under Treatment,8
+PT0335,Kathleen Rogers,Male,37,Pediatrics,Chickenpox,Robin Johnston,2024-11-15,2025-01-17,63,28677.23,Recovered,7
+PT0336,Rebekah Zhang,Male,24,Neurology,Migraine,Terry Johnson,2025-01-23,2025-02-17,25,10017.01,Under Treatment,8
+PT0337,Dr. Alex Fernandez,Female,54,Orthopedics,Dislocation,Zachary Rangel,2025-02-09,2025-05-28,108,37830.28,Deceased,9
+PT0338,Zoe Smith,Female,85,Orthopedics,Dislocation,Isaac Patterson,2025-04-11,2025-05-16,35,47106.96,Recovered,1
+PT0339,Martin Martin,Female,26,Neurology,Epilepsy,Christopher Lee,2025-01-10,2025-06-30,171,23572.24,Recovered,4
+PT0340,Gerald Romero,Female,30,General Medicine,Diabetes,Brandon Mitchell,2024-02-27,2025-02-11,350,12558.06,Under Treatment,3
+PT0341,Arthur Walker,Male,60,Oncology,Lung Cancer,Dustin Brewer,2025-01-30,2025-05-25,115,43815.59,Recovered,6
+PT0342,Taylor Kennedy,Male,41,Neurology,Stroke,Ian Cunningham,2023-07-31,2024-06-05,310,5766.15,Recovered,3
+PT0343,Laura Davila,Male,17,Cardiology,Arrhythmia,Brandy Wallace,2024-09-11,2025-07-05,297,15272.2,Recovered,3
+PT0344,Adam Walton,Male,84,Cardiology,Arrhythmia,Matthew Vargas,2023-10-01,2024-05-11,223,47356.44,Under Treatment,10
+PT0345,Margaret Ward,Male,37,General Medicine,Thyroid,Amber Porter,2023-10-22,2024-06-23,245,21467.98,Recovered,7
+PT0346,Anna Wright,Female,62,Oncology,Breast Cancer,Brittany Gibson,2023-11-06,2024-06-10,217,47295.19,Recovered,10
+PT0347,Dr. Gwendolyn Mccormick MD,Female,68,General Medicine,Fever,Reginald Brooks,2024-10-25,2024-11-25,31,28068.91,Recovered,5
+PT0348,Amanda Mcguire,Female,68,General Medicine,Thyroid,David Arnold,2024-06-16,2025-02-04,233,11579.86,Deceased,9
+PT0349,Jessica Gilbert,Male,41,Orthopedics,Dislocation,Margaret Hill,2024-09-04,2025-06-28,297,10971.41,Recovered,5
+PT0350,Natalie Garcia,Female,62,Cardiology,Heart Attack,Vicki Wright,2025-03-01,2025-06-11,102,22901.75,Recovered,4
+PT0351,Erica Stanton,Male,11,Neurology,Migraine,William Mclaughlin,2025-06-17,2025-07-03,16,22199.62,Recovered,1
+PT0352,Susan Sanchez,Female,54,General Medicine,Thyroid,Randy Watson,2024-03-03,2024-03-13,10,48035.3,Recovered,10
+PT0353,Matthew Cook,Female,12,Cardiology,Arrhythmia,James Peterson,2024-10-09,2025-01-22,105,45302.07,Deceased,9
+PT0354,Eric Gonzalez,Female,33,Orthopedics,Fracture,Michelle Sloan,2023-11-18,2024-04-19,153,20150.43,Recovered,9
+PT0355,Crystal Harmon,Female,43,Neurology,Stroke,Jodi Bowman,2024-02-07,2024-05-20,103,5918.48,Recovered,10
+PT0356,Scott Williams,Male,71,Dermatology,Eczema,Kimberly Hernandez,2025-05-25,2025-06-08,14,24335.14,Deceased,3
+PT0357,Nancy Garza,Male,75,Dermatology,Eczema,Jared Bowen,2024-02-24,2024-05-27,93,31531.65,Recovered,3
+PT0358,Ronald Solomon,Male,47,Cardiology,Arrhythmia,Henry Craig,2024-04-08,2025-06-29,447,30845.24,Recovered,7
+PT0359,Kristen Simpson,Male,72,Neurology,Epilepsy,Bryan Perez,2025-01-25,2025-06-22,148,46937.73,Recovered,7
+PT0360,Marcus Larson,Female,89,Cardiology,Heart Attack,Christopher Hancock,2023-10-03,2024-01-14,103,37847.61,Recovered,9
+PT0361,Michael Levine,Male,74,Orthopedics,Dislocation,Samuel Glenn,2024-11-21,2024-12-13,22,30785.4,Recovered,9
+PT0362,Paul Matthews,Male,17,Pediatrics,Chickenpox,Marissa Stewart,2024-09-25,2025-04-20,207,14806.58,Recovered,9
+PT0363,Amanda Ramirez,Male,21,General Medicine,Diabetes,Brianna Solis,2024-07-08,2025-03-12,247,29635.01,Recovered,2
+PT0364,Bruce Mccoy,Female,2,Cardiology,Arrhythmia,Crystal Johnson,2024-11-20,2025-03-05,105,11654.32,Recovered,1
+PT0365,Gary Caldwell,Male,59,Orthopedics,Arthritis,Michael Dominguez MD,2023-08-14,2024-04-24,254,14530.14,Recovered,8
+PT0366,William Bennett,Male,9,Oncology,Leukemia,James Cook,2023-12-29,2025-06-04,523,35176.98,Recovered,2
+PT0367,Mariah Flores,Female,89,Dermatology,Acne,Scott Bush,2024-05-31,2024-12-23,206,42823.21,Recovered,5
+PT0368,Melissa Pollard,Female,12,Pediatrics,Flu,Madison Reed,2025-01-14,2025-01-19,5,13601.56,Recovered,1
+PT0369,Brooke Garza,Female,85,Orthopedics,Arthritis,Jeffrey Herrera,2025-02-14,2025-05-16,91,31912.78,Recovered,6
+PT0370,William Morse,Male,77,Pediatrics,Flu,Erik Bush,2024-03-19,2024-12-03,259,49772.36,Recovered,4
+PT0371,Joshua Ellis,Female,4,Cardiology,Hypertension,Holly Clark,2025-06-14,2025-06-29,15,17492.93,Recovered,6
+PT0372,Jennifer Castillo,Female,55,Cardiology,Hypertension,Bonnie Jones,2025-01-06,2025-02-28,53,26826.8,Under Treatment,7
+PT0373,Jason Edwards,Female,2,General Medicine,Diabetes,Zachary Torres,2023-12-30,2024-01-14,15,14341.7,Recovered,4
+PT0374,Paul Nguyen,Male,69,Orthopedics,Fracture,Manuel King,2024-12-04,2025-05-17,164,48955.3,Recovered,3
+PT0375,Kim West,Female,39,General Medicine,Diabetes,William Yates,2024-05-20,2025-06-30,406,48197.98,Recovered,4
+PT0376,Steven Holmes,Female,85,General Medicine,Thyroid,Nicole Sanders,2024-05-08,2024-11-24,200,12118.44,Deceased,3
+PT0377,Kayla Brown,Male,41,General Medicine,Diabetes,Evelyn Crane,2023-12-04,2024-05-21,169,44021.51,Recovered,2
+PT0378,Mark Sexton,Female,87,Cardiology,Arrhythmia,Sandra Murphy,2024-12-22,2025-04-01,100,32916.03,Recovered,9
+PT0379,Erika Stone,Male,76,Orthopedics,Dislocation,William Mendez,2024-03-09,2024-04-20,42,38805.81,Recovered,6
+PT0380,Eric Nelson,Male,53,Dermatology,Psoriasis,Bobby Schultz,2025-04-04,2025-04-27,23,33762.94,Recovered,4
+PT0381,Karen Rogers MD,Female,23,Orthopedics,Arthritis,Daniel Hill,2023-11-08,2025-03-23,501,14851.85,Recovered,3
+PT0382,Willie Smith,Female,46,Neurology,Epilepsy,Craig Miller,2024-05-19,2024-08-17,90,11979.27,Deceased,9
+PT0383,Stephanie Torres,Female,60,Neurology,Stroke,Lance Harris,2024-03-07,2024-09-18,195,21659.04,Under Treatment,9
+PT0384,Kevin Collins,Female,67,General Medicine,Thyroid,Jacob Mcgee,2023-12-10,2025-06-21,559,49768.42,Recovered,1
+PT0385,Luis Malone,Male,56,Orthopedics,Arthritis,Mark Flores,2024-03-15,2024-12-01,261,38734.65,Recovered,1
+PT0386,Kyle Aguilar,Male,49,General Medicine,Diabetes,Heather Garza,2024-01-17,2024-07-03,168,9640.67,Recovered,6
+PT0387,Shelby Davenport,Female,29,Pediatrics,Chickenpox,Beth Fletcher,2024-01-18,2025-06-21,520,30463.33,Recovered,3
+PT0388,Kelli Williams,Male,87,Pediatrics,Chickenpox,Ashley Shepard,2025-03-19,2025-06-13,86,24562.63,Recovered,7
+PT0389,Mary Davis,Male,80,Orthopedics,Arthritis,Angela Martinez,2025-01-19,2025-02-20,32,28059.16,Under Treatment,10
+PT0390,Elizabeth Gibbs,Female,68,Neurology,Epilepsy,Yvette Alexander,2025-04-23,2025-06-22,60,41872.88,Recovered,1
+PT0391,Sherry Cook,Male,55,General Medicine,Fever,Regina Morris,2023-09-13,2023-12-01,79,44462.42,Recovered,4
+PT0392,Nancy Suarez,Female,78,Pediatrics,Chickenpox,Bernard Smith,2025-03-13,2025-05-14,62,29089.26,Recovered,1
+PT0393,Ronald Smith,Female,76,Cardiology,Heart Attack,Dominique Sexton,2025-01-11,2025-01-20,9,9080.26,Recovered,4
+PT0394,Morgan Dyer,Female,17,Pediatrics,Chickenpox,Bryan Edwards,2024-04-18,2025-06-10,418,25982.74,Deceased,4
+PT0395,Hannah Ruiz,Female,59,General Medicine,Fever,Ryan Cruz,2024-12-01,2025-01-18,48,45627.7,Deceased,9
+PT0396,Justin Clark,Female,44,Neurology,Epilepsy,Jennifer Rogers,2024-07-16,2024-09-14,60,39812.42,Recovered,4
+PT0397,Frank Martinez,Male,39,General Medicine,Thyroid,Kenneth Luna,2025-04-08,2025-06-22,75,14494.2,Recovered,5
+PT0398,Jessica Garcia,Female,65,Pediatrics,Chickenpox,John Harrell,2025-06-13,2025-07-04,21,37377.24,Recovered,3
+PT0399,Michelle Mcguire,Male,37,Orthopedics,Dislocation,Holly Barnes,2023-09-02,2025-05-08,614,21553.02,Recovered,1
+PT0400,Allen Thompson,Male,29,General Medicine,Thyroid,Ashley Good PhD,2023-12-11,2024-06-13,185,5881.03,Recovered,5
+PT0401,James Perez,Female,12,General Medicine,Diabetes,Troy Woods,2024-10-11,2025-04-01,172,9746.92,Recovered,9
+PT0402,Kimberly Nichols,Male,80,Neurology,Stroke,Jeffrey Garner,2024-07-05,2024-10-20,107,11997.34,Recovered,9
+PT0403,Laura Moore,Female,31,Oncology,Leukemia,Steven Hayes,2024-12-11,2025-01-26,46,23974.76,Recovered,4
+PT0404,Austin Tran,Male,73,Pediatrics,Chickenpox,Matthew Savage,2024-02-13,2025-06-28,501,34348.24,Recovered,1
+PT0405,Kyle Phillips,Female,85,Oncology,Lung Cancer,Jack Johnson,2025-05-17,2025-05-31,14,31948.16,Recovered,3
+PT0406,Gabriel Martinez,Female,4,Pediatrics,Chickenpox,Traci Davis,2024-03-20,2025-04-30,406,39229.75,Recovered,2
+PT0407,Ana Lopez,Female,76,Oncology,Lung Cancer,Shelby Perez,2023-09-04,2023-09-22,18,17065.44,Recovered,2
+PT0408,Elizabeth Hoffman,Female,55,General Medicine,Diabetes,Deborah Chen,2023-08-16,2025-03-13,575,40904.44,Recovered,1
+PT0409,Crystal Olson,Female,59,Oncology,Leukemia,Alan Mitchell,2023-11-05,2024-10-21,351,24435.68,Recovered,4
+PT0410,Ann Grant,Female,6,Pediatrics,Chickenpox,Tanya Rodriguez DVM,2023-11-17,2025-03-27,496,33466.89,Recovered,7
+PT0411,Sarah Townsend,Female,29,Cardiology,Heart Attack,Kerry Armstrong,2024-08-20,2024-12-22,124,22817.11,Recovered,3
+PT0412,James Williams,Female,77,Cardiology,Heart Attack,Nicholas Aguilar,2024-03-04,2024-03-18,14,9993.14,Recovered,9
+PT0413,Sergio Molina,Male,30,Cardiology,Heart Attack,Lee Wallace,2024-07-06,2024-10-24,110,14746.16,Recovered,3
+PT0414,Jesse Werner,Female,41,General Medicine,Diabetes,Charles Sanchez,2024-04-14,2025-01-15,276,37580.66,Recovered,1
+PT0415,Matthew Miller,Female,31,Dermatology,Acne,Gerald Richards,2025-02-10,2025-04-13,62,31690.2,Recovered,8
+PT0416,Michelle Holmes,Female,26,General Medicine,Thyroid,Jennifer Lopez,2023-08-24,2024-12-01,465,24727.35,Recovered,4
+PT0417,William Ramirez,Female,33,Dermatology,Psoriasis,Robert Moore,2024-12-10,2025-01-29,50,7134.09,Recovered,9
+PT0418,Mr. Christopher Graham,Female,3,General Medicine,Fever,John Lopez,2024-04-07,2024-09-26,172,11197.85,Recovered,5
+PT0419,Julie Santos,Male,66,Orthopedics,Dislocation,Brittany Molina,2024-03-17,2024-07-25,130,25430.27,Recovered,5
+PT0420,Christian Johnson,Female,12,Neurology,Epilepsy,Samuel Wilson,2025-02-19,2025-06-26,127,19190.91,Recovered,8
+PT0421,Julia Williams,Male,88,General Medicine,Diabetes,Lindsey Carroll,2024-10-02,2024-10-26,24,12733.1,Recovered,1
+PT0422,Rebecca Rich,Female,18,General Medicine,Diabetes,John Holland,2023-12-20,2024-01-20,31,23023.55,Recovered,1
+PT0423,Donald Hudson,Male,80,Dermatology,Psoriasis,David Harris,2025-01-16,2025-01-23,7,42650.76,Recovered,2
+PT0424,Alexander Johnston,Female,41,Oncology,Lung Cancer,Erik Koch,2024-07-18,2024-12-05,140,28174.47,Recovered,7
+PT0425,Christopher Dickson,Male,50,Oncology,Breast Cancer,Oscar Schneider,2024-03-19,2025-06-27,465,7481.57,Recovered,3
+PT0426,Rachel Davis,Male,70,General Medicine,Fever,Denise Payne,2024-10-30,2025-02-05,98,32123.48,Under Treatment,4
+PT0427,Bradley Weber,Female,14,Cardiology,Arrhythmia,Matthew Duncan,2025-05-27,2025-06-08,12,28794.59,Under Treatment,9
+PT0428,Karen Nguyen,Male,67,Orthopedics,Dislocation,Richard Morgan,2024-10-20,2025-02-14,117,42167.06,Deceased,8
+PT0429,Curtis Phillips,Female,82,Neurology,Stroke,Dylan Johnson,2024-05-07,2024-08-18,103,23857.27,Recovered,7
+PT0430,Robert Rodriguez,Female,46,Oncology,Breast Cancer,Luis Bryant,2025-01-21,2025-01-29,8,43595.49,Recovered,9
+PT0431,Christopher Hall,Male,23,Pediatrics,Flu,Brent Roberts,2024-05-20,2025-01-23,248,22788.55,Recovered,2
+PT0432,Darren Williamson,Male,45,Pediatrics,Flu,Bobby Robinson,2024-01-19,2025-01-15,362,28062.82,Recovered,10
+PT0433,Cindy Silva DDS,Male,42,Dermatology,Psoriasis,Christine Reilly,2023-10-14,2024-05-13,212,26523.99,Under Treatment,4
+PT0434,Ian Cobb,Male,22,Neurology,Epilepsy,Michael Stone,2025-03-03,2025-03-08,5,19449.45,Recovered,5
+PT0435,Laura Taylor,Female,21,Orthopedics,Fracture,Kimberly Lewis PhD,2024-07-14,2025-04-24,284,18874.4,Recovered,4
+PT0436,Elizabeth Gibson,Female,33,General Medicine,Fever,Katie Shields,2024-02-23,2025-04-23,425,48273.91,Recovered,2
+PT0437,Charles Santos,Male,69,Orthopedics,Dislocation,Edgar Cole,2023-08-09,2023-11-25,108,40107.12,Deceased,3
+PT0438,William Greene,Female,26,Cardiology,Arrhythmia,Timothy Hinton,2023-11-02,2024-09-22,325,11964.48,Deceased,10
+PT0439,Loretta Avery,Male,39,Oncology,Leukemia,Gabrielle Ward,2023-08-10,2024-11-27,475,17616.01,Recovered,3
+PT0440,Sally Rhodes,Male,18,Orthopedics,Arthritis,Anthony Martin,2024-10-23,2025-06-23,243,42377.8,Under Treatment,9
+PT0441,Ricky Cunningham,Female,54,Oncology,Lung Cancer,Norma Goodman,2025-04-29,2025-06-01,33,33468.85,Recovered,5
+PT0442,Gregory Duncan,Female,78,Cardiology,Arrhythmia,Gary Newton,2023-09-15,2025-02-21,525,31519.96,Recovered,1
+PT0443,Katherine Dennis,Female,9,Pediatrics,Bronchitis,Alan Campbell,2023-07-26,2024-05-01,280,41658.55,Recovered,6
+PT0444,Janice Zamora,Male,34,Pediatrics,Chickenpox,Heidi Mcintyre,2025-04-28,2025-05-15,17,30345.49,Recovered,3
+PT0445,Larry Cook,Male,70,Pediatrics,Flu,Garrett Moore,2023-12-10,2024-12-06,362,31387.03,Recovered,9
+PT0446,Miranda Patton,Male,8,Pediatrics,Bronchitis,Joseph Wiley,2025-05-16,2025-05-25,9,44217.46,Recovered,2
+PT0447,Joyce Cowan,Female,73,Oncology,Leukemia,Richard Solomon,2025-02-27,2025-03-01,2,45548.59,Recovered,4
+PT0448,Rachel Martin,Female,5,Orthopedics,Arthritis,Timothy Robinson,2024-08-26,2025-02-12,170,40609.42,Recovered,3
+PT0449,Roy Gonzalez,Female,78,Cardiology,Hypertension,Kyle Gibson,2023-07-31,2024-04-27,271,37221.28,Recovered,8
+PT0450,Matthew Powers,Female,2,Orthopedics,Arthritis,Kayla Robbins,2023-10-11,2024-01-23,104,9228.7,Recovered,2
+PT0451,Sarah Jones,Female,10,Oncology,Lung Cancer,Daniel George,2024-02-28,2024-09-30,215,30627.27,Recovered,1
+PT0452,Thomas Baker,Female,11,Neurology,Migraine,Edward Tucker,2025-01-17,2025-04-15,88,14100.91,Under Treatment,4
+PT0453,William Clarke,Female,9,Dermatology,Eczema,Rachael Stevens,2024-03-12,2025-06-25,470,31731.13,Recovered,6
+PT0454,Melissa Patterson,Male,44,Pediatrics,Chickenpox,Sally Robinson,2024-03-22,2024-08-19,150,37961.07,Recovered,8
+PT0455,Susan Hodges,Female,86,Dermatology,Psoriasis,Rachel Wu,2024-05-05,2024-05-16,11,44434.72,Recovered,4
+PT0456,Brittany Smith,Female,88,General Medicine,Fever,Michael Ferrell,2024-07-07,2025-01-21,198,33217.51,Recovered,3
+PT0457,Jennifer Brown,Female,18,Pediatrics,Flu,Todd Olson,2024-03-10,2024-06-01,83,22148.92,Recovered,7
+PT0458,Garrett Bates,Female,30,Orthopedics,Arthritis,Lori Underwood,2025-06-24,2025-07-02,8,27103.48,Recovered,8
+PT0459,Dawn Aguilar,Female,17,Neurology,Epilepsy,Maria Mcguire,2025-03-20,2025-06-03,75,31141.97,Recovered,10
+PT0460,Alexander Brooks,Female,89,General Medicine,Fever,Adrian Watkins,2024-10-23,2025-03-06,134,45229.56,Recovered,3
+PT0461,Rodney Anthony,Male,77,Cardiology,Arrhythmia,Brian Frazier,2024-11-22,2024-12-31,39,44762.94,Recovered,7
+PT0462,George Wong,Male,87,Pediatrics,Flu,Christine Hammond,2024-04-30,2024-10-28,181,11083.37,Under Treatment,1
+PT0463,Brian Mcguire,Female,86,Cardiology,Heart Attack,Stephanie Molina,2023-10-12,2024-12-28,443,44151.27,Recovered,3
+PT0464,Julia Crawford,Female,33,Oncology,Breast Cancer,Taylor Nguyen,2025-05-31,2025-06-20,20,33376.09,Recovered,7
+PT0465,Bryan Good,Male,53,Dermatology,Psoriasis,Marissa Hernandez,2024-08-20,2025-03-11,203,31708.36,Under Treatment,2
+PT0466,Ashley Green,Female,52,Cardiology,Heart Attack,Regina Ramos,2024-12-19,2025-05-23,155,15241.88,Recovered,8
+PT0467,Phillip Jones,Female,49,Cardiology,Arrhythmia,Robin Nguyen,2024-07-05,2024-12-14,162,7050.81,Recovered,6
+PT0468,Monica Ponce,Male,33,Orthopedics,Arthritis,Veronica Cooper,2023-11-05,2025-06-25,598,6058.36,Under Treatment,7
+PT0469,Vanessa Martin,Male,72,Dermatology,Eczema,Arthur Smith DDS,2024-11-04,2025-04-25,172,27045.7,Recovered,2
+PT0470,Joanne Wilson,Male,45,Cardiology,Hypertension,Brittney Clarke,2024-05-05,2025-05-27,387,25698.51,Recovered,4
+PT0471,Cheryl Thomas,Male,53,Pediatrics,Chickenpox,Brittany Shaw,2025-06-21,2025-06-30,9,41916.68,Recovered,1
+PT0472,Cynthia Sutton,Male,6,Cardiology,Heart Attack,Anthony Thomas,2024-01-08,2024-07-10,184,15469.18,Recovered,8
+PT0473,Mary Jones,Male,19,Pediatrics,Flu,Samuel Boyer,2024-02-01,2025-01-14,348,38165.89,Under Treatment,4
+PT0474,Thomas Gray,Male,20,Neurology,Stroke,Jesse Hansen,2023-11-01,2024-05-28,209,32973.55,Recovered,9
+PT0475,Mary Estrada,Male,30,General Medicine,Diabetes,Danielle Martinez,2025-04-06,2025-04-18,12,17281.44,Recovered,10
+PT0476,Maureen Bowman,Male,12,Cardiology,Heart Attack,Jonathan Jenkins,2024-04-16,2025-07-03,443,43591.28,Recovered,7
+PT0477,Wayne Parsons,Female,21,Orthopedics,Dislocation,Jasmine Nicholson,2025-04-25,2025-05-18,23,42628.92,Recovered,5
+PT0478,Jesse Harris,Female,81,Orthopedics,Arthritis,Stacy Jones,2024-09-19,2025-04-11,204,7456.26,Recovered,7
+PT0479,Marisa Floyd,Female,22,Orthopedics,Arthritis,Morgan Bush,2023-10-17,2024-04-17,183,22800.44,Recovered,5
+PT0480,Ashley Cooper,Female,30,Cardiology,Heart Attack,Kathleen Perez,2024-03-27,2025-06-18,448,5129.39,Recovered,9
+PT0481,Chad Weaver,Male,80,Cardiology,Hypertension,George Tucker,2024-04-14,2024-10-09,178,29407.91,Recovered,2
+PT0482,Christopher Davis,Male,3,Oncology,Breast Cancer,Shirley Lopez,2025-06-09,2025-07-01,22,42519.57,Recovered,9
+PT0483,Cameron Dalton,Male,86,General Medicine,Diabetes,Tiffany Davis,2023-12-08,2025-03-13,461,33700.48,Recovered,2
+PT0484,Nicole Love,Male,5,General Medicine,Thyroid,Gabriela Bowers DDS,2025-04-24,2025-05-21,27,6337.18,Recovered,1
+PT0485,Jackson Velazquez,Male,89,Oncology,Breast Cancer,Dr. David Wilson,2025-04-02,2025-06-16,75,23155.56,Recovered,9
+PT0486,Stephanie Andrade,Female,36,Pediatrics,Flu,Jaclyn Harvey,2024-09-06,2024-12-01,86,36118.35,Recovered,10
+PT0487,Stephanie Rodriguez,Male,28,General Medicine,Diabetes,Sheryl White,2023-09-26,2024-08-04,313,39646.04,Recovered,5
+PT0488,Tiffany Pena,Male,21,Orthopedics,Fracture,Melody Strickland,2025-02-14,2025-07-04,140,40000.75,Recovered,3
+PT0489,Michael Carr,Female,21,General Medicine,Diabetes,Veronica Miles,2024-10-13,2024-11-20,38,32302.99,Deceased,1
+PT0490,Emily Richardson,Female,73,Cardiology,Heart Attack,Courtney Cochran,2025-05-01,2025-07-05,65,12292.48,Recovered,4
+PT0491,Christy Pugh,Female,36,General Medicine,Fever,Michael Owens,2025-02-20,2025-03-02,10,21800.67,Recovered,6
+PT0492,Diana Chapman,Male,88,Cardiology,Hypertension,Thomas Wilkins,2024-05-05,2025-06-11,402,36771.96,Recovered,10
+PT0493,Randy Morrow,Male,8,Neurology,Epilepsy,Tammy Johnson,2025-03-31,2025-07-03,94,16493.58,Recovered,4
+PT0494,Matthew Morris,Male,8,Neurology,Stroke,Michelle Norris,2024-03-27,2025-01-12,291,34139.02,Recovered,9
+PT0495,James King,Male,56,Orthopedics,Fracture,Joshua Soto,2024-07-14,2024-11-19,128,17147.82,Recovered,1
+PT0496,Michael Wilson,Male,26,Pediatrics,Bronchitis,Melissa Salas,2025-04-04,2025-04-18,14,24456.09,Under Treatment,2
+PT0497,Michael Mccarthy,Male,4,Orthopedics,Fracture,Elizabeth Diaz PhD,2024-05-04,2024-08-19,107,27142.55,Recovered,5
+PT0498,Mary Holmes,Female,60,General Medicine,Thyroid,Jessica Tate,2024-12-03,2025-01-15,43,42408.53,Under Treatment,9
+PT0499,Peter Baker,Female,85,Neurology,Migraine,Michael Vazquez,2023-08-14,2024-03-01,200,24981.57,Recovered,4
+PT0500,Jimmy Williamson,Female,17,Pediatrics,Chickenpox,Vincent Walker,2025-05-17,2025-06-12,26,35932.24,Recovered,4
